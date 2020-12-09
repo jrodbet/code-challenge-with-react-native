@@ -1,0 +1,699 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:1:1-43:12
+MERGED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:1:1-43:12
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c1b04f38f61a134c63b2c8f42bf79c7b\flipper-0.54.0\AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a84e25545c15eb9e18174b0a7043277d\flipper-network-plugin-0.54.0\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\fdace9b24ab17a45db410386510aebcc\flipper-fresco-plugin-0.54.0\AndroidManifest.xml:8:1-15:12
+MERGED from [:unimodules-react-native-adapter] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:expo-splash-screen] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-updates] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-updates\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-gesture-handler] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_masked-view] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-navigation] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-navigation\lib\android\app\build\intermediates\library_manifest\reactNative63Debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-safe-area-context] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4ad2519cc6ddfd7a3db8fb28bc55ce48\jetified-react-native-0.63.4\AndroidManifest.xml:2:1-13:12
+MERGED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-29:12
+MERGED from [com.github.wix-playground:reflow-animator:1.0.6] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\5ca4a2796c0d1c91ff1a8278cf95839d\reflow-animator-1.0.6\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b1bd6c7aaf6d985734ecb9b4ecad9a50\jetified-play-services-location-16.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a5b656b558d2ca2ea9cb7e4925abb769\jetified-play-services-base-16.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\bfce16857dec9a3b2b418c6cd6e3a9e2\play-services-places-placereport-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4988eb4ea47f64429ab1b27fe88c2b3a\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4fcf0770dfdc513d2bc4fb94868873c3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\034bf6fc21ec29981825d7f881a4afea\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b1636e75fe66974fa8ee22403d767338\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\db59ead447bcc5d6ebed226a1f5e19b8\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:expo-constants] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-font] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-image-loader] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-image-loader\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-permissions] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-sqlite] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-app-loader] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-app-loader\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\d14f2081b6a0ad1399a77170604d0b6a\android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b6c003e87cde0b88efac32c07c91f5ad\flipper-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\7ba4da03fe2cf287ebd7e63cd89f0836\stetho-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\937367dda78339a8a99bbb8ee10dedd9\fresco-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\723eeec9b7869ec61277548f6f5d25b0\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\62126dc3646f9f64d7b15f8f74f9492c\drawee-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\3d72a3d2e5f1583f4a3a230e72927709\nativeimagefilters-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\05f159c7d1e5e639109b763829470420\memory-type-native-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c5c3d64e5f3ad7a81be2d2db91d28d2c\memory-type-java-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\13495dce79de97ffe30d94e00abd6011\imagepipeline-native-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\78923fab2b1d75bd58ec2127e1dd17aa\memory-type-ashmem-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b06286d6f5c13015022c54bee63675f8\imagepipeline-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c3dee3fce105cc050592e28099cd854c\nativeimagetranscoder-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ca02c95e599d3139e289670375f19eb2\imagepipeline-base-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\274d226041f3fb86ac1f06fc6569f5b9\soloader-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\8fb1abb7de3181dd918d67d9b2797bc3\soloader-0.9.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c724cce2ff083ab72e7173307c102a35\ahbottomnavigation-3.2.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b52f3d0f2da2f9e67fd08492eaf54dff\material-1.2.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\2ff3812fb9454e8f4f4a841f13fcf017\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4d88b8abcf37fe64dc557a4a57fdb765\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\2e2a8ea807bfdc01eb5b628c4fbfdc39\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\5af749bb28a170715aa62abfe0b7bad7\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\20126d60bfb3a61fb70651b746903cae\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\8b8d205a98e17ed6ad9e17a611569c5b\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\8c7a9c240ba03792fe8526a50b0dc1da\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4cf0858621888bc333ca5e73341f4fdc\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4a508102ff2007ad437545f45d867d77\core-ktx-1.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\332af25cc4e60def37c66aa5d197bc37\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\072a5104ab4397c19b731a1951eb0479\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\695a437438b574d96586626dc517ed13\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\395badcf2128fe19b0b42c865ae51706\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b143fe3c9a36bbf88ab21c2e7878d66b\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ddbd874fbf69bca5e2da408aec5454bf\room-runtime-2.1.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\13cc3f9195df8d0e8c2e8d0fc5c37e1b\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\6b59f5b7a687dc8aea87d3a1b28f3695\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\1f59f42a3de4420b8ad3202412ce3143\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\d5410a17e0a129c84518c19829ce9708\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\458f5d3462e61513bc851408eafd13c0\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\1da28115ca7eee01060c71226f3d4dde\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\6e900c0f753bc35a67103694a1406e86\activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4fbef036949797d773858f2c7afbd8a9\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\6b6b3b72c6cbef369526f3c0175d02d6\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\1b0d6706b1b3f172472b7e6cb9eca331\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b446a51c07cf326a2967e3ece84230b4\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\37aec95f75f159e88dafcdbe31237091\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a61bc7498aa44da63dcf80e66aed84bc\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\01ea95a2ce767ad35c03c6d238507804\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\efef4a52763710eeabf0dc6d1b40cc2e\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\bd36f8c4b17feedf4f78a8097931ab0f\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\0ac0a51083ea54a60c101643b18d2d4d\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c6e4377e672b6c623c9a1e3b5bfc9fa9\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\3cbbd8f328b931caa246cd09a2663d74\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\56ade1282f550d2a8df61c08a95dc0eb\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\0d6b7e4a19a73e6e953f0313a744a52d\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\2ddca516efbfdd968fbff1a3b8adb48f\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\7c24418a0dad99edc44965ef17ed2d10\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\7a0c8e1f4ef5d6773d0aa71dd420415b\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:2:1-30:12
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\395c72eaea8bb98f154eed237ec07d0a\fab-1.6.4\AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\cd3dea9f0b71eb48965b4b85d2e68bdd\jetified-fbcore-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ba1788b7d0d7945e08beb2158715fabe\ui-common-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4679cc442a04c74815ff0fab73d7f530\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:1:70-101
+		INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:1:70-101
+		INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\debug\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:2:3-64
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c1b04f38f61a134c63b2c8f42bf79c7b\flipper-0.54.0\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c1b04f38f61a134c63b2c8f42bf79c7b\flipper-0.54.0\AndroidManifest.xml:15:5-67
+MERGED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:2:20-62
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:3:3-75
+MERGED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:3:3-75
+MERGED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:3:3-75
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:3:20-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:4:3-72
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:4:20-70
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:5:3-71
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:5:20-69
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:6:3-69
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:6:20-67
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:7:3-63
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:7:20-61
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:8:3-77
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:8:20-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:9:3-78
+MERGED from [:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:9:20-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:10:3-76
+MERGED from [:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:10:20-74
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:11:3-82
+MERGED from [:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-85
+MERGED from [:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-85
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:11:20-80
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:12:3-62
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:12:20-60
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:13:3-68
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:13:20-66
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:14:3-69
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:14:20-67
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:15:3-70
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:15:20-68
+uses-permission#android.permission.READ_CALENDAR
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:16:3-69
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:16:20-67
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:17:3-70
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:17:20-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:18:3-77
+MERGED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:18:20-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:19:3-78
+MERGED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:19:20-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:20:3-70
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:20:20-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:21:3-76
+MERGED from [:expo-updates] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-updates\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-79
+MERGED from [:expo-updates] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-updates\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:13:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:21:20-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:22:3-65
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:22:20-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:23:3-79
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:23:20-77
+application
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:3-42:17
+MERGED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:3-42:17
+MERGED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:3-42:17
+MERGED from [:unimodules-react-native-adapter] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [:unimodules-react-native-adapter] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-navigation] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-navigation\lib\android\app\build\intermediates\library_manifest\reactNative63Debug\AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-navigation] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-navigation\lib\android\app\build\intermediates\library_manifest\reactNative63Debug\AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4ad2519cc6ddfd7a3db8fb28bc55ce48\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4ad2519cc6ddfd7a3db8fb28bc55ce48\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-27:19
+MERGED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-27:19
+MERGED from [:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-20:19
+MERGED from [:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-20:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b1bd6c7aaf6d985734ecb9b4ecad9a50\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b1bd6c7aaf6d985734ecb9b4ecad9a50\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a5b656b558d2ca2ea9cb7e4925abb769\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a5b656b558d2ca2ea9cb7e4925abb769\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\bfce16857dec9a3b2b418c6cd6e3a9e2\play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\bfce16857dec9a3b2b418c6cd6e3a9e2\play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4988eb4ea47f64429ab1b27fe88c2b3a\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4988eb4ea47f64429ab1b27fe88c2b3a\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4fcf0770dfdc513d2bc4fb94868873c3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4fcf0770dfdc513d2bc4fb94868873c3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\8fb1abb7de3181dd918d67d9b2797bc3\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\8fb1abb7de3181dd918d67d9b2797bc3\soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c724cce2ff083ab72e7173307c102a35\ahbottomnavigation-3.2.0\AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c724cce2ff083ab72e7173307c102a35\ahbottomnavigation-3.2.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b52f3d0f2da2f9e67fd08492eaf54dff\material-1.2.0-alpha03\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b52f3d0f2da2f9e67fd08492eaf54dff\material-1.2.0-alpha03\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4d88b8abcf37fe64dc557a4a57fdb765\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4d88b8abcf37fe64dc557a4a57fdb765\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b143fe3c9a36bbf88ab21c2e7878d66b\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b143fe3c9a36bbf88ab21c2e7878d66b\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ddbd874fbf69bca5e2da408aec5454bf\room-runtime-2.1.0\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ddbd874fbf69bca5e2da408aec5454bf\room-runtime-2.1.0\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\37aec95f75f159e88dafcdbe31237091\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\37aec95f75f159e88dafcdbe31237091\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a61bc7498aa44da63dcf80e66aed84bc\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a61bc7498aa44da63dcf80e66aed84bc\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:18:5-28:19
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\395c72eaea8bb98f154eed237ec07d0a\fab-1.6.4\AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\395c72eaea8bb98f154eed237ec07d0a\fab-1.6.4\AndroidManifest.xml:12:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\37aec95f75f159e88dafcdbe31237091\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:48-80
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:48-80
+	tools:ignore
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\debug\AndroidManifest.xml:6:75-114
+	android:roundIcon
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:116-161
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:116-161
+	tools:targetApi
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\debug\AndroidManifest.xml:6:54-74
+	android:icon
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:81-115
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:81-115
+	android:allowBackup
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:162-188
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:162-188
+	android:theme
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:189-220
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:189-220
+	android:usesCleartextTraffic
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\debug\AndroidManifest.xml:6:18-53
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:16-47
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:16-47
+meta-data#expo.modules.updates.EXPO_SDK_VERSION
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:25:5-93
+	android:value
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:25:69-91
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:25:16-68
+meta-data#expo.modules.updates.ENABLED
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:26:5-82
+	android:value
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:26:60-80
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:26:16-59
+meta-data#expo.modules.updates.EXPO_UPDATES_CHECK_ON_LAUNCH
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:27:5-105
+	android:value
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:27:81-103
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:27:16-80
+meta-data#expo.modules.updates.EXPO_UPDATES_LAUNCH_WAIT_MS
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:28:5-99
+	android:value
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:28:80-97
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:28:16-79
+activity#com.jerobe.aumionista.MainActivity
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:29:5-40:16
+	android:screenOrientation
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:29:276-312
+	android:label
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:29:44-76
+	android:launchMode
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:29:155-186
+	android:windowSoftInputMode
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:29:187-229
+	android:configChanges
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:29:77-154
+	android:theme
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:29:230-275
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:29:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:30:7-33:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:31:9-60
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:31:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:32:9-68
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:32:19-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:com.jerobe.aumionista
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:34:7-39:23
+action#android.intent.action.VIEW
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:35:9-60
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:35:17-58
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:36:9-67
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:36:19-65
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:37:9-69
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:37:19-67
+data
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:38:9-55
+	android:scheme
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:38:15-53
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:41:5-81
+MERGED from [:react-native-navigation] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-navigation\lib\android\app\build\intermediates\library_manifest\reactNative63Debug\AndroidManifest.xml:12:9-14:40
+MERGED from [:react-native-navigation] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-navigation\lib\android\app\build\intermediates\library_manifest\reactNative63Debug\AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from [:react-native-navigation] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-navigation\lib\android\app\build\intermediates\library_manifest\reactNative63Debug\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:41:15-79
+uses-sdk
+INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c1b04f38f61a134c63b2c8f42bf79c7b\flipper-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c1b04f38f61a134c63b2c8f42bf79c7b\flipper-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a84e25545c15eb9e18174b0a7043277d\flipper-network-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a84e25545c15eb9e18174b0a7043277d\flipper-network-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\fdace9b24ab17a45db410386510aebcc\flipper-fresco-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\fdace9b24ab17a45db410386510aebcc\flipper-fresco-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [:unimodules-react-native-adapter] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-splash-screen] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-splash-screen] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-updates\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-updates\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-navigation] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-navigation\lib\android\app\build\intermediates\library_manifest\reactNative63Debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-navigation\lib\android\app\build\intermediates\library_manifest\reactNative63Debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4ad2519cc6ddfd7a3db8fb28bc55ce48\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4ad2519cc6ddfd7a3db8fb28bc55ce48\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.wix-playground:reflow-animator:1.0.6] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\5ca4a2796c0d1c91ff1a8278cf95839d\reflow-animator-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:reflow-animator:1.0.6] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\5ca4a2796c0d1c91ff1a8278cf95839d\reflow-animator-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b1bd6c7aaf6d985734ecb9b4ecad9a50\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b1bd6c7aaf6d985734ecb9b4ecad9a50\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a5b656b558d2ca2ea9cb7e4925abb769\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a5b656b558d2ca2ea9cb7e4925abb769\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\bfce16857dec9a3b2b418c6cd6e3a9e2\play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\bfce16857dec9a3b2b418c6cd6e3a9e2\play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4988eb4ea47f64429ab1b27fe88c2b3a\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4988eb4ea47f64429ab1b27fe88c2b3a\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4fcf0770dfdc513d2bc4fb94868873c3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4fcf0770dfdc513d2bc4fb94868873c3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\034bf6fc21ec29981825d7f881a4afea\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\034bf6fc21ec29981825d7f881a4afea\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b1636e75fe66974fa8ee22403d767338\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b1636e75fe66974fa8ee22403d767338\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\db59ead447bcc5d6ebed226a1f5e19b8\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\db59ead447bcc5d6ebed226a1f5e19b8\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:expo-constants] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-image-loader] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-image-loader\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-image-loader] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-image-loader\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-app-loader] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-app-loader\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-app-loader] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-app-loader\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\d14f2081b6a0ad1399a77170604d0b6a\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\d14f2081b6a0ad1399a77170604d0b6a\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b6c003e87cde0b88efac32c07c91f5ad\flipper-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b6c003e87cde0b88efac32c07c91f5ad\flipper-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\7ba4da03fe2cf287ebd7e63cd89f0836\stetho-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\7ba4da03fe2cf287ebd7e63cd89f0836\stetho-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\937367dda78339a8a99bbb8ee10dedd9\fresco-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\937367dda78339a8a99bbb8ee10dedd9\fresco-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\723eeec9b7869ec61277548f6f5d25b0\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\723eeec9b7869ec61277548f6f5d25b0\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\62126dc3646f9f64d7b15f8f74f9492c\drawee-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\62126dc3646f9f64d7b15f8f74f9492c\drawee-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\3d72a3d2e5f1583f4a3a230e72927709\nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\3d72a3d2e5f1583f4a3a230e72927709\nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\05f159c7d1e5e639109b763829470420\memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\05f159c7d1e5e639109b763829470420\memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c5c3d64e5f3ad7a81be2d2db91d28d2c\memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c5c3d64e5f3ad7a81be2d2db91d28d2c\memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\13495dce79de97ffe30d94e00abd6011\imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\13495dce79de97ffe30d94e00abd6011\imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\78923fab2b1d75bd58ec2127e1dd17aa\memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\78923fab2b1d75bd58ec2127e1dd17aa\memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b06286d6f5c13015022c54bee63675f8\imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b06286d6f5c13015022c54bee63675f8\imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c3dee3fce105cc050592e28099cd854c\nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c3dee3fce105cc050592e28099cd854c\nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ca02c95e599d3139e289670375f19eb2\imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ca02c95e599d3139e289670375f19eb2\imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\274d226041f3fb86ac1f06fc6569f5b9\soloader-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\274d226041f3fb86ac1f06fc6569f5b9\soloader-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\8fb1abb7de3181dd918d67d9b2797bc3\soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\8fb1abb7de3181dd918d67d9b2797bc3\soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c724cce2ff083ab72e7173307c102a35\ahbottomnavigation-3.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c724cce2ff083ab72e7173307c102a35\ahbottomnavigation-3.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b52f3d0f2da2f9e67fd08492eaf54dff\material-1.2.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b52f3d0f2da2f9e67fd08492eaf54dff\material-1.2.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\2ff3812fb9454e8f4f4a841f13fcf017\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\2ff3812fb9454e8f4f4a841f13fcf017\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4d88b8abcf37fe64dc557a4a57fdb765\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4d88b8abcf37fe64dc557a4a57fdb765\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\2e2a8ea807bfdc01eb5b628c4fbfdc39\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\2e2a8ea807bfdc01eb5b628c4fbfdc39\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\5af749bb28a170715aa62abfe0b7bad7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\5af749bb28a170715aa62abfe0b7bad7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\20126d60bfb3a61fb70651b746903cae\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\20126d60bfb3a61fb70651b746903cae\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\8b8d205a98e17ed6ad9e17a611569c5b\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\8b8d205a98e17ed6ad9e17a611569c5b\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\8c7a9c240ba03792fe8526a50b0dc1da\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\8c7a9c240ba03792fe8526a50b0dc1da\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4cf0858621888bc333ca5e73341f4fdc\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4cf0858621888bc333ca5e73341f4fdc\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4a508102ff2007ad437545f45d867d77\core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4a508102ff2007ad437545f45d867d77\core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\332af25cc4e60def37c66aa5d197bc37\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\332af25cc4e60def37c66aa5d197bc37\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\072a5104ab4397c19b731a1951eb0479\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\072a5104ab4397c19b731a1951eb0479\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\695a437438b574d96586626dc517ed13\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\695a437438b574d96586626dc517ed13\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\395badcf2128fe19b0b42c865ae51706\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\395badcf2128fe19b0b42c865ae51706\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b143fe3c9a36bbf88ab21c2e7878d66b\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b143fe3c9a36bbf88ab21c2e7878d66b\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ddbd874fbf69bca5e2da408aec5454bf\room-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ddbd874fbf69bca5e2da408aec5454bf\room-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\13cc3f9195df8d0e8c2e8d0fc5c37e1b\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\13cc3f9195df8d0e8c2e8d0fc5c37e1b\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\6b59f5b7a687dc8aea87d3a1b28f3695\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\6b59f5b7a687dc8aea87d3a1b28f3695\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\1f59f42a3de4420b8ad3202412ce3143\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\1f59f42a3de4420b8ad3202412ce3143\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\d5410a17e0a129c84518c19829ce9708\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\d5410a17e0a129c84518c19829ce9708\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\458f5d3462e61513bc851408eafd13c0\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\458f5d3462e61513bc851408eafd13c0\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\1da28115ca7eee01060c71226f3d4dde\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\1da28115ca7eee01060c71226f3d4dde\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\6e900c0f753bc35a67103694a1406e86\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\6e900c0f753bc35a67103694a1406e86\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4fbef036949797d773858f2c7afbd8a9\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4fbef036949797d773858f2c7afbd8a9\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\6b6b3b72c6cbef369526f3c0175d02d6\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\6b6b3b72c6cbef369526f3c0175d02d6\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\1b0d6706b1b3f172472b7e6cb9eca331\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\1b0d6706b1b3f172472b7e6cb9eca331\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b446a51c07cf326a2967e3ece84230b4\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\b446a51c07cf326a2967e3ece84230b4\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\37aec95f75f159e88dafcdbe31237091\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\37aec95f75f159e88dafcdbe31237091\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a61bc7498aa44da63dcf80e66aed84bc\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a61bc7498aa44da63dcf80e66aed84bc\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\01ea95a2ce767ad35c03c6d238507804\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\01ea95a2ce767ad35c03c6d238507804\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\efef4a52763710eeabf0dc6d1b40cc2e\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\efef4a52763710eeabf0dc6d1b40cc2e\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\bd36f8c4b17feedf4f78a8097931ab0f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\bd36f8c4b17feedf4f78a8097931ab0f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\0ac0a51083ea54a60c101643b18d2d4d\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\0ac0a51083ea54a60c101643b18d2d4d\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c6e4377e672b6c623c9a1e3b5bfc9fa9\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c6e4377e672b6c623c9a1e3b5bfc9fa9\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\3cbbd8f328b931caa246cd09a2663d74\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\3cbbd8f328b931caa246cd09a2663d74\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\56ade1282f550d2a8df61c08a95dc0eb\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\56ade1282f550d2a8df61c08a95dc0eb\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\0d6b7e4a19a73e6e953f0313a744a52d\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\0d6b7e4a19a73e6e953f0313a744a52d\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\2ddca516efbfdd968fbff1a3b8adb48f\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\2ddca516efbfdd968fbff1a3b8adb48f\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\7c24418a0dad99edc44965ef17ed2d10\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\7c24418a0dad99edc44965ef17ed2d10\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\7a0c8e1f4ef5d6773d0aa71dd420415b\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\7a0c8e1f4ef5d6773d0aa71dd420415b\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\395c72eaea8bb98f154eed237ec07d0a\fab-1.6.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\395c72eaea8bb98f154eed237ec07d0a\fab-1.6.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\cd3dea9f0b71eb48965b4b85d2e68bdd\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\cd3dea9f0b71eb48965b4b85d2e68bdd\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ba1788b7d0d7945e08beb2158715fabe\ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ba1788b7d0d7945e08beb2158715fabe\ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4679cc442a04c74815ff0fab73d7f530\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4679cc442a04c74815ff0fab73d7f530\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.54.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c1b04f38f61a134c63b2c8f42bf79c7b\flipper-0.54.0\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.54.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c1b04f38f61a134c63b2c8f42bf79c7b\flipper-0.54.0\AndroidManifest.xml:16:22-73
+meta-data#org.unimodules.core.AppLoader#react-native-headless
+ADDED from [:unimodules-react-native-adapter] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:91
+	android:value
+		ADDED from [:unimodules-react-native-adapter] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-88
+	android:name
+		ADDED from [:unimodules-react-native-adapter] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-79
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-26:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-47
+	android:authorities
+		ADDED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-74
+	android:exported
+		ADDED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-37
+	tools:replace
+		ADDED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-48
+	android:name
+		ADDED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-25:70
+	android:resource
+		ADDED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-67
+	android:name
+		ADDED from [:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-77
+	android:name
+		ADDED from [:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from [:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a5b656b558d2ca2ea9cb7e4925abb769\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a5b656b558d2ca2ea9cb7e4925abb769\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a5b656b558d2ca2ea9cb7e4925abb769\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a5b656b558d2ca2ea9cb7e4925abb769\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4fcf0770dfdc513d2bc4fb94868873c3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4fcf0770dfdc513d2bc4fb94868873c3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4fcf0770dfdc513d2bc4fb94868873c3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ddbd874fbf69bca5e2da408aec5454bf\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ddbd874fbf69bca5e2da408aec5454bf\room-runtime-2.1.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ddbd874fbf69bca5e2da408aec5454bf\room-runtime-2.1.0\AndroidManifest.xml:26:13-74
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:26:13-120

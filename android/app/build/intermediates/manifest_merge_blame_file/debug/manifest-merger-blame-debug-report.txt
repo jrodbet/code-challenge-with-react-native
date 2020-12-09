@@ -1,0 +1,259 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.jerobe.aumionista"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:3:3-75
+11-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:3:20-73
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:2:3-64
+12-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:2:20-62
+13    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+13-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:4:3-72
+13-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:4:20-70
+14    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+14-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:5:3-71
+14-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:5:20-69
+15    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+15-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:6:3-69
+15-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:6:20-67
+16    <uses-permission android:name="android.permission.VIBRATE" />
+16-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:7:3-63
+16-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:7:20-61
+17    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+17-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:8:3-77
+17-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:8:20-75
+18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+18-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:9:3-78
+18-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:9:20-76
+19    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+19-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:10:3-76
+19-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:10:20-74
+20    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+20-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:11:3-82
+20-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:11:20-80
+21    <uses-permission android:name="android.permission.CAMERA" />
+21-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:12:3-62
+21-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:12:20-60
+22    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+22-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:13:3-68
+22-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:13:20-66
+23    <uses-permission android:name="android.permission.READ_CONTACTS" />
+23-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:14:3-69
+23-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:14:20-67
+24    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+24-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:15:3-70
+24-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:15:20-68
+25    <uses-permission android:name="android.permission.READ_CALENDAR" />
+25-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:16:3-69
+25-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:16:20-67
+26    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+26-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:17:3-70
+26-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:17:20-68
+27    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+27-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:18:3-77
+27-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:18:20-75
+28    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+28-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:19:3-78
+28-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:19:20-76
+29    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+29-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:20:3-70
+29-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:20:20-68
+30    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+30-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:21:3-76
+30-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:21:20-74
+31    <uses-permission android:name="android.permission.WAKE_LOCK" />
+31-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:22:3-65
+31-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:22:20-63
+32    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+32-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:23:3-79
+32-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:23:20-77
+33    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+33-->[com.facebook.flipper:flipper:0.54.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c1b04f38f61a134c63b2c8f42bf79c7b\flipper-0.54.0\AndroidManifest.xml:16:5-76
+33-->[com.facebook.flipper:flipper:0.54.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\c1b04f38f61a134c63b2c8f42bf79c7b\flipper-0.54.0\AndroidManifest.xml:16:22-73
+34    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+34-->[:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-77
+34-->[:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-74
+35    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+35-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:15:5-98
+35-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:15:22-95
+36    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
+36-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:16:5-94
+36-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:16:22-91
+37
+38    <application
+38-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:3-42:17
+39        android:name="com.jerobe.aumionista.MainApplication"
+39-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:16-47
+40        android:allowBackup="true"
+40-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:162-188
+41        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+41-->[androidx.core:core:1.3.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\37aec95f75f159e88dafcdbe31237091\core-1.3.0\AndroidManifest.xml:24:18-86
+42        android:debuggable="true"
+43        android:icon="@mipmap/ic_launcher"
+43-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:81-115
+44        android:label="@string/app_name"
+44-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:48-80
+45        android:roundIcon="@mipmap/ic_launcher_round"
+45-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:116-161
+46        android:theme="@style/AppTheme"
+46-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:24:189-220
+47        android:usesCleartextTraffic="true" >
+47-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\debug\AndroidManifest.xml:6:18-53
+48        <meta-data
+48-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:25:5-93
+49            android:name="expo.modules.updates.EXPO_SDK_VERSION"
+49-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:25:16-68
+50            android:value="39.0.0" />
+50-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:25:69-91
+51        <meta-data
+51-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:26:5-82
+52            android:name="expo.modules.updates.ENABLED"
+52-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:26:16-59
+53            android:value="true" />
+53-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:26:60-80
+54        <meta-data
+54-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:27:5-105
+55            android:name="expo.modules.updates.EXPO_UPDATES_CHECK_ON_LAUNCH"
+55-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:27:16-80
+56            android:value="ALWAYS" />
+56-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:27:81-103
+57        <meta-data
+57-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:28:5-99
+58            android:name="expo.modules.updates.EXPO_UPDATES_LAUNCH_WAIT_MS"
+58-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:28:16-79
+59            android:value="0" />
+59-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:28:80-97
+60
+61        <activity
+61-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:29:5-40:16
+62            android:name="com.jerobe.aumionista.MainActivity"
+62-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:29:15-43
+63            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+63-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:29:77-154
+64            android:label="@string/app_name"
+64-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:29:44-76
+65            android:launchMode="singleTask"
+65-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:29:155-186
+66            android:screenOrientation="portrait"
+66-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:29:276-312
+67            android:theme="@style/Theme.App.SplashScreen"
+67-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:29:230-275
+68            android:windowSoftInputMode="adjustResize" >
+68-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:29:187-229
+69            <intent-filter>
+69-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:30:7-33:23
+70                <action android:name="android.intent.action.MAIN" />
+70-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:31:9-60
+70-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:31:17-58
+71
+72                <category android:name="android.intent.category.LAUNCHER" />
+72-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:32:9-68
+72-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:32:19-66
+73            </intent-filter>
+74            <intent-filter>
+74-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:34:7-39:23
+75                <action android:name="android.intent.action.VIEW" />
+75-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:35:9-60
+75-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:35:17-58
+76
+77                <category android:name="android.intent.category.DEFAULT" />
+77-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:36:9-67
+77-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:36:19-65
+78                <category android:name="android.intent.category.BROWSABLE" />
+78-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:37:9-69
+78-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:37:19-67
+79
+80                <data android:scheme="com.jerobe.aumionista" />
+80-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:38:9-55
+80-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:38:15-53
+81            </intent-filter>
+82        </activity>
+83        <activity
+83-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:41:5-81
+84            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+84-->C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\android\app\src\main\AndroidManifest.xml:41:15-79
+85            android:exported="false" />
+85-->[:react-native-navigation] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\react-native-navigation\lib\android\app\build\intermediates\library_manifest\reactNative63Debug\AndroidManifest.xml:14:13-37
+86
+87        <meta-data
+87-->[:unimodules-react-native-adapter] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-14:91
+88            android:name="org.unimodules.core.AppLoader#react-native-headless"
+88-->[:unimodules-react-native-adapter] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-79
+89            android:value="org.unimodules.adapters.react.apploader.RNHeadlessAppLoader" />
+89-->[:unimodules-react-native-adapter] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-88
+90
+91        <provider
+91-->[:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-26:20
+92            android:name="expo.modules.filesystem.FileSystemFileProvider"
+92-->[:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-74
+93            android:authorities="com.jerobe.aumionista.FileSystemFileProvider"
+93-->[:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-74
+94            android:exported="false"
+94-->[:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-37
+95            android:grantUriPermissions="true" >
+95-->[:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-47
+96            <meta-data
+96-->[:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-25:70
+97                android:name="android.support.FILE_PROVIDER_PATHS"
+97-->[:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:17-67
+98                android:resource="@xml/file_system_provider_paths" />
+98-->[:expo-file-system] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-67
+99        </provider>
+100
+101        <service
+101-->[:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-19:40
+102            android:name="expo.modules.location.services.LocationTaskService"
+102-->[:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-78
+103            android:exported="false" />
+103-->[:expo-location] C:\Users\JHON\Documents\MEGA\LABURO\aumio\challenge-01\Aumionista\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-37
+104
+105        <activity
+105-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a5b656b558d2ca2ea9cb7e4925abb769\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+106            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+106-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a5b656b558d2ca2ea9cb7e4925abb769\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+107            android:exported="false"
+107-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a5b656b558d2ca2ea9cb7e4925abb769\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+108            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+108-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\a5b656b558d2ca2ea9cb7e4925abb769\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+109
+110        <meta-data
+110-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4fcf0770dfdc513d2bc4fb94868873c3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+111            android:name="com.google.android.gms.version"
+111-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4fcf0770dfdc513d2bc4fb94868873c3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+112            android:value="@integer/google_play_services_version" />
+112-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\4fcf0770dfdc513d2bc4fb94868873c3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+113
+114        <service
+114-->[androidx.room:room-runtime:2.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ddbd874fbf69bca5e2da408aec5454bf\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
+115            android:name="androidx.room.MultiInstanceInvalidationService"
+115-->[androidx.room:room-runtime:2.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ddbd874fbf69bca5e2da408aec5454bf\room-runtime-2.1.0\AndroidManifest.xml:26:13-74
+116            android:exported="false" />
+116-->[androidx.room:room-runtime:2.1.0] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\ddbd874fbf69bca5e2da408aec5454bf\room-runtime-2.1.0\AndroidManifest.xml:27:13-37
+117        <service
+117-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:19:9-21:40
+118            android:name="io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService"
+118-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:20:13-132
+119            android:exported="false" />
+119-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:21:13-37
+120        <service
+120-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:22:9-24:40
+121            android:name="io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService"
+121-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:23:13-127
+122            android:exported="false" />
+122-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:24:13-37
+123        <service
+123-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:25:9-27:40
+124            android:name="io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService"
+124-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:26:13-120
+125            android:exported="false" />
+125-->[io.nlopez.smartlocation:library:3.2.11] C:\Users\JHON\.gradle\caches\transforms-2\files-2.1\43cff1873bf16c38f7677d51ba8ad0f9\jetified-library-3.2.11\AndroidManifest.xml:27:13-37
+126    </application>
+127
+128</manifest>
